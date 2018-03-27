@@ -1,0 +1,13 @@
+package helloWorld;
+
+public class RedditPost {
+	int score;
+	int numberComments
+	
+	RedditPost()
+	{
+
+	}
+	
+
+}
